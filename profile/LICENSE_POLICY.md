@@ -2,7 +2,7 @@
 
 Unless explicitly stated otherwise, all repositories in this organization are:
 - Proprietary and confidential
-- Licensed only for internal use by the Texas A&M Rocketry Team
+- Licensed only for internal use by the Texas A&M Sounding Rocketry Team
 - Not licensed for redistribution or commercial use without written permission
 
 ## Repository-Specific Licenses

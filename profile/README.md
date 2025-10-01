@@ -9,7 +9,7 @@ Built for speed, scalability, and flexible hardware integration.
 
 ## Licensing
 All repositories in this organization are **proprietary** unless otherwise noted.  
-- Team members at Texas A&M Rocketry have internal-use rights.  
+- Team members at Texas A&M Sounding Rocketry Team have internal-use rights.  
 - Commercial use requires a separate agreement with Voit Systems.
 
 View the [License Policy](LICENSE_POLICY.md) and the [Contributor License Agreement](CONTRIBUTOR_LICENSE_AGREEMENT.md)

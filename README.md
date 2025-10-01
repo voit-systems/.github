@@ -7,5 +7,8 @@ Built for speed, scalability, and flexible hardware integration.
 
 
 ## Licensing
-All repositories in this organization are proprietary unless otherwise noted.  
-See individual repository LICENSE files for details.
+All repositories in this organization are **proprietary** unless otherwise noted.  
+- Team members at Texas A&M Rocketry have internal-use rights.  
+- Commercial use requires a separate agreement with Voit Systems. 
+
+See each repository’s `LICENSE.md` for details.

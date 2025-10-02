@@ -16,5 +16,5 @@ organization, you agree to the following terms:
    Voit Systems is not obligated to use, merge, or distribute your contribution.
 
 4. **Team Use Context**  
-   Contributions are intended for use by the Texas A&M Rocketry Team and for
+   Contributions are intended for use by the Texas A&M University Sounding Rocketry Team and for
    potential future commercial releases by Voit Systems.

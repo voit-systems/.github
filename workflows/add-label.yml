@@ -1,0 +1,23 @@
+name: Add another label to issues
+
+on:
+  issues:
+    types: [opened, labeled]
+
+jobs:
+  add_label:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add 'in-progress' label if 'bug' is present
+        if: contains(github.event.issue.labels.*.name, 'bug')
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              labels: ['in-progress']
+            });
+            
+            
